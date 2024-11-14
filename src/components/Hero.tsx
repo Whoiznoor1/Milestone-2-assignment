@@ -8,7 +8,7 @@ const Hero = () => {
       className="bg-black text-white min-h-screen flex flex-col items-center justify-center px-4 md:px-0 "
     >
       <div className="flex flex-col items-center mb-4">
-        <h1 className="text-2xl font-bold text-orange-500 mb-2">
+        <h1 className="text-1xl font-bold text-orange-500 mb-2">
           From Our Steamer To Your Soul{" "}
         </h1>
         <p className="text-xs font-semibold">Momos You Cannot Resist!</p>

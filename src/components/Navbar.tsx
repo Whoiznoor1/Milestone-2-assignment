@@ -6,7 +6,7 @@ const Navbar = () => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <nav className="bg-orange-500 p-4 shadow-md sticky top-0">
+    <nav className="bg-orange-500 p-4 shadow-md sticky top-0 ">
       <div className="container mx-auto flex justify-between items-center">
         <h1 className="text-white text-2xl font-bold">MomoMania</h1>
 
